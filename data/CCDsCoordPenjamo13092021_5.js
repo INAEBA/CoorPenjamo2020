@@ -1,0 +1,9 @@
+var json_CCDsCoordPenjamo13092021_5 = {
+"type": "FeatureCollection",
+"name": "CCDsCoordPenjamo13092021_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CLAVE DE O": "C-11-001-18", "NOMBRE DEL": "CIS LOS SABINOS", "TIPO": "EN COLABORACI�N", "SERVICIOS": "NO", "SITUACI�": "EN OPERACI�N", "CR": "C", "CZ": "8", "NOMBRE DE": "P�NJAMO", "MUNICIPIO": "P�NJAMO", "COMUNIDAD": "P�NJAMO", "DOMICILIO": "MERCURIO 1-A", "COLONIA": "LOS SABINOS", "CP": "36900", "GEOREFENCI": "https:\/\/goo.gl\/maps\/a1va7kk7YnEgNH8T7", "LIGA COMPL": "https:\/\/www.google.com.mx\/maps\/place\/CENTRO+IMPULSO+SOCIAL+%22LOS+SABINOS%22\/@20.4273693,-101.7349242,17z\/data=!4m5!3m4!1s0x842c13a42ac14c05:0x448e309e21286246!8m2!3d20.4273049!4d-101.7352831", "COORDENADA": "20.42749497691157, -101.73532116690195", "LATITUD": 20.427494976911571, "LONGITUD": -101.73532116690195 }, "geometry": { "type": "Point", "coordinates": [ -101.735321166901954, 20.427494976911575 ] } },
+{ "type": "Feature", "properties": { "CLAVE DE O": "C-11-001-21", "NOMBRE DEL": "CIS SANTA ANA PACUECO", "TIPO": "EN COLABORACI�N", "SERVICIOS": "NO", "SITUACI�": "EN OPERACI�N", "CR": "C", "CZ": "8", "NOMBRE DE": "P�NJAMO", "MUNICIPIO": "P�NJAMO", "COMUNIDAD": "SANTA ANA PACUECO", "DOMICILIO": "VILLAGR�N #112", "COLONIA": "CENTRO", "CP": "36910", "GEOREFENCI": "https:\/\/goo.gl\/maps\/W1NRA5zFrpjyc7BbA", "LIGA COMPL": "https:\/\/www.google.com.mx\/maps\/place\/CENTRO+IMPULSO+SOCIAL+SANTA+ANA+PACUECO\/@20.3497996,-102.0365675,14z\/data=!4m5!3m4!1s0x842c1fed917d55f9:0x1395aff480e4afcd!8m2!3d20.358566!4d-102.0158127?hl=es-419", "COORDENADA": "20.3607034067539, -102.01562481371269", "LATITUD": 20.360703406753899, "LONGITUD": -102.01562481371269 }, "geometry": { "type": "Point", "coordinates": [ -102.015624813712691, 20.360703406753899 ] } }
+]
+}
